@@ -284,3 +284,10 @@ h5{
 .text-small{
   font-size: 10px;
 }
+
+.hr-gray{
+  margin: 18px 0;
+  border: 0;
+  border-top: 1px solid #b0b0b0;
+  /*border-bottom: 1px solid #ffffff;*/
+}
