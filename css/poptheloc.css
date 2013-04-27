@@ -109,7 +109,7 @@ body{
 p {
   margin: 0 0 9px;
   font-family: "MuseoSans", Helvetica, Arial, sans-serif;
-  font-size: 13px;
+  font-size: 12px;
   line-height: 18px;
 }
 
@@ -279,4 +279,8 @@ rgba(0, 0, 0, 0.07);
 
 h5{
   font-family: "MuseoSans", Helvetica, Arial, sans-serif;
+}
+
+.text-small{
+  font-size: 10px;
 }
